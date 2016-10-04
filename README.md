@@ -1,0 +1,7 @@
+- HW: 8/Motion: Move and choreograph shapes.
+- HW: Create an animation of set length. Fade in and fade out the screen. Have one element that’s different each time.
+- Inspiration:
+  - Chuck Jones and Maurice Noble, The Dot and the Line, 1965, https://www.youtube.com/watch?v=OmSbdvzbOzY.
+  - John Whitney, Catalog, 1961, https://youtu.be/TbV7loKp69s.
+  - Viking Eggling, Symphonie Diagonale, 1924, https://youtu.be/KpCI67GMe7o.
+  - Oskar Fischinger, An Optical Poem, 1938, https://youtu.be/they7m6YePo. 
