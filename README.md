@@ -1,3 +1,4 @@
+- Click the link: https://classroom.github.com/assignment-invitations/e322f56bfe37f9f3f3edb02920f06bda
 - HW: 8/Motion: Move and choreograph shapes.
 - HW: 13/Extend: Introduction Only
 - HW: Create an animation of set length inspired by music. Fade in and fade out the screen. Have one element that’s different each time.
