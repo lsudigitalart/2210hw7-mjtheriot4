@@ -1,5 +1,6 @@
 - HW: 8/Motion: Move and choreograph shapes.
-- HW: Create an animation of set length. Fade in and fade out the screen. Have one element that’s different each time.
+- HW: 13/Extend: Introduction Only
+- HW: Create an animation of set length inspired by music. Fade in and fade out the screen. Have one element that’s different each time.
 - Inspiration:
   - Young-Hae Chang Heavy Industries, Dakota, http://www.yhchang.com/DAKOTA.html.
   - Chuck Jones and Maurice Noble, The Dot and the Line, 1965, https://www.youtube.com/watch?v=OmSbdvzbOzY.
