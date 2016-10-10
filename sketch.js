@@ -6,6 +6,7 @@ function preload(){
 var now;
 var spacing;
 var x;
+var delay = 400;
 var i = 0;
 var y1 = 500;
 var y2 = 500;
@@ -27,7 +28,7 @@ function draw () {
   spacing = width/8;
   x = spacing;
 
-  var loop = 2544 * i;
+  var loop = (2682 * i) + delay;
 
   background(0);
   ellipse(x,y1,50);                 //ellipse 1
