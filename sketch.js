@@ -1,7 +1,7 @@
 //copywright Micah Theriot
 
 function preload(){
-    music = loadSound("assets/PerpetuumMobile.mp3");
+    music = loadSound("assets/PerpetuumMobile_marked.mp3");
 }
 var now;
 var spacing;
