@@ -1,8 +1,5 @@
 //copywright Micah Theriot
 
-function preload(){
-    music = loadSound("assets/PerpetuumMobile_marked.mp3");
-}
 var now;
 var spacing;
 var x;
@@ -19,12 +16,18 @@ var y7 = 500;
 
 function setup () {
   createCanvas(1200, 600);
+  music = loadSound("assets/PerpetuumMobile_marked.mp3", findLoadTime);
   noStroke();
   fill(255);
   music.play();
 }
+
+function findLoadTime() {
+    loadTime = millis();
+}
+
 function draw () {
-  now = millis();
+  now = millis() - loadTime;
   spacing = width/8;
   x = spacing;
 
